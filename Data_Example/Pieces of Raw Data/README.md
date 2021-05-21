@@ -1,0 +1,4 @@
+File 2018-10-19-20_2018-10-19-21_tti.csv is a piece of TTI & Average Speed data, whose time range is from 20:00:00 to 21:00:00 on Oct 19th, 2020.  The whole raw dataset can be downloaded from https://outreach.didichuxing.com/app-vue/TTI?id=1003.  
+File 2018-11-08 000800-001200.csv is a piece of Trajectory data, whose time range is from 00:08:00 to 00:12:00 on Nov. 8th 2018. The whole raw dataset can be downloaded from https://outreach.didichuxing.com/app-vue/TTItrajectory?id=1001.  
+File AutoCAD_chengdu.dxf is the geographical layour of Chengdu district. The full dataset can be downloaded at https://cadmapper.com/.  
+File road_boundary.txt is the network data. Which can be downloaded from https://outreach.didichuxing.com/app-vue/TTI?id=1003.  
